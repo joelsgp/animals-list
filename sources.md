@@ -1,0 +1,9 @@
+https://a-z-animals.com/animals/
+https://github.com/skjorrface/animals.txt
+https://www.catalogueoflife.org/data/download
+https://www.catalogueoflife.org/about/colusage#data-formats
+https://api.checklistbank.org/
+https://github.com/CatalogueOfLife/coldp#vernacularname
+https://en.wikipedia.org/wiki/Dog_breed#Breeds
+https://github.com/dariusk/corpora/tree/master/data/animals
+https://en.wikipedia.org/wiki/Zebroid
