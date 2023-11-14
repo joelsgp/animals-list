@@ -7,3 +7,10 @@ https://github.com/CatalogueOfLife/coldp#vernacularname
 https://en.wikipedia.org/wiki/Dog_breed#Breeds
 https://github.com/dariusk/corpora/tree/master/data/animals
 https://en.wikipedia.org/wiki/Zebroid
+
+
+# notes
+animals.txt: 594
+- 236 in COL
+- 88 in DOGS
+- remaining: more dogs, general names
