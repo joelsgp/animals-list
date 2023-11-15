@@ -13,4 +13,8 @@ https://en.wikipedia.org/wiki/Zebroid
 animals.txt: 594
 - 236 in COL
 - 88 in DOGS
-- remaining: more dogs, general names
+- remaining: more dogs, general names/different pluralisation
+
+note/todo:
+- error: Baraka"s whipray https://www.catalogueoflife.org/data/taxon/3XDNG
+- error: some have commas, notes in name field

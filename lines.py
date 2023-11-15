@@ -55053,7 +55053,7 @@ animals = (
     "Whipray",
     "Whitespotted whipray",
     "Round whip ray",
-    "Baraka"s whipray",
+    "Baraka's whipray",
     "Dwarf whip ray",
     "Dwarf whipray",
     "Scaly stingray",
