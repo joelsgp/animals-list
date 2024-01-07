@@ -23,5 +23,5 @@ shuffle(new_releases)
 
 number = 26.04
 for rel in new_releases:
-    print(f"Ubuntu {number} {capwords(rel)}")
+    print(f"Ubuntu {number:.2f} {capwords(rel)}")
     number += 2
